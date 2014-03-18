@@ -3,6 +3,8 @@ OpenBookFlash
 
 OpenBookFlash is a free Book Flip interface to manipulate your SWF file generated with Adobe Indesign.
 
+Example : http://w-jerome.fr/GitHub/OpenBookFlash/
+
 
 How use OpenBookFlash ?
 =============
